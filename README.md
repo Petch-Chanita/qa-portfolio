@@ -1,9 +1,9 @@
 # QA Portfolio - Manual Testing
 
 This repository contains my **QA Portfolio** with sample documents:
-- 📑 [Test Plan](./Test Plan.pdf)
-- ✅ [Test Cases](./Test Cases.pdf)
-- 🐞 [Bug Reports](./Bug Report.pdf)
+- 📑 [Test Plan](./TestPlan.pdf)
+- ✅ [Test Cases](./TestCases.pdf)
+- 🐞 [Bug Reports](./BugReport.pdf)
 
 ## 🛠 Tools Used
 - Microsoft Excel / PDF (Documentation)
