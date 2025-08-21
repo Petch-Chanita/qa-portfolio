@@ -15,3 +15,7 @@ This portfolio demonstrates my ability to:
 - Design & Execute Test Cases  
 - Report and track bugs  
 - Work systematically as a Manual Tester
+
+## Sources
+- Test Plan & Test Cases → based on demo e-commerce site: [DemoSite A](https://magento.softwaretestingboard.com/)
+- Bug Reports → based on training project site: [DemoSite B](https://academybugs.com/find-bugs/)
