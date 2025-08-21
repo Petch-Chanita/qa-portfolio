@@ -2,7 +2,7 @@
 
 This repository contains my **QA Portfolio** with sample documents:
 - 📑 [Test Plan](./TestPlan.pdf)
-- ✅ [Test Cases](./TestCases.pdf)
+- ✅ [Test Cases](./TestCase.pdf)
 - 🐞 [Bug Reports](./BugReport.pdf)
 
 ## 🛠 Tools Used
